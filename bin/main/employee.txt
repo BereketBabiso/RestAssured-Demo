@@ -1,0 +1,6 @@
+{
+  "id": "1000",
+  "firstName": "bereket",
+  "lastName": "yetera",
+  "salary": "3100"
+}
